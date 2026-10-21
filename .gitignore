@@ -1,0 +1,22 @@
+.env
+.env.*
+*.key
+secrets/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# corpus, scans and model files stay local
+data/private/
+data/raw/
+*.pdf
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.log

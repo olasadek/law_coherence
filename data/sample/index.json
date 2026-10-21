@@ -1,0 +1,17 @@
+{
+ "case_A": {
+  "ruling_date": "2019-11-11",
+  "outcome": "appeal rejected, first-instance judgment upheld",
+  "court": "Civil Court of Appeal, Mount Lebanon"
+ },
+ "case_B": {
+  "ruling_date": "2017-11-19",
+  "outcome": "appeal rejected, first-instance judgment upheld",
+  "court": "Civil Court of Appeal, Mount Lebanon"
+ },
+ "case_C": {
+  "ruling_date": "2016-01-06",
+  "outcome": "one appeal rejected as inadmissible, one accepted, judgment reversed in part",
+  "court": "Civil Court of Appeal, Mount Lebanon"
+ }
+}
